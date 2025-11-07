@@ -25,3 +25,5 @@ dist/
 *.bak
 *.swp
 *.swo
+out/
+video/
