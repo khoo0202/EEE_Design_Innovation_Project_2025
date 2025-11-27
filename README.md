@@ -1,6 +1,6 @@
 ![Project logo](eval/appearance.png)
 
-# Smoking/Vaping Detection System using YOLO + VQA + UI
+# Smoking/Vaping Detection System
 
 ![Evaluation results](eval/eval.png)
 
